@@ -6,7 +6,7 @@ A Python tool that tracks and compares supply APY, TVL and rate spreads across m
 
 ## Overview
 
-This project fetches historical yield data for stablecoin lending markets and produces a multi-panel interactive dashboard. The central analytical question is straightforward: how do DeFi lending rates behave relative to the Sky DSR — the closest available proxy for a risk-free rate in decentralized finance — and what does that spread tell us about capital allocation dynamics across protocols?
+This project fetches historical yield data for stablecoin lending markets and produces a multi-panel interactive dashboard. The central analytical question is straightforward: how do DeFi lending rates behave relative to the Sky DSR, the closest available proxy for a risk-free rate in decentralized finance, and what does that spread tell us about capital allocation dynamics across protocols?
 
 Metrics tracked:
 - Historical supply APY per protocol, with 4-week rolling average
